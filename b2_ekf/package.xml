@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>b2_ekf</name>
+  <version>0.1.0</version>
+
+  <description>B2 EKF pacakge.</description>
+  <author email="sheaffej@gmail.com">sheaffej</author>
+  <maintainer email="sheaffej@gmail.com">sheaffej</maintainer>
+  <license>Apache 2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roslaunch</build_depend>
+  <exec_depend>xacro</exec_depend>
+
+</package>
